@@ -1,0 +1,6 @@
+#ifndef CUDADISTANCE_LIBRARY_CUH
+#define CUDADISTANCE_LIBRARY_CUH
+
+__global__ void hello();
+
+#endif //CUDADISTANCE_LIBRARY_CUH
